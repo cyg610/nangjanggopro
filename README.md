@@ -11,3 +11,17 @@
 
 5. 핵심기술 설명
    - 로그인
+
+![image02](https://user-images.githubusercontent.com/39265738/113571348-3293da80-9651-11eb-95e4-c9ccc4cefa39.png)
+
+·개발 소프트웨어 : android studio, firebase
+·기능 설명
+	- 사용자의 데이터를 저장해 주기 위한 로그인
+
+![image03](https://user-images.githubusercontent.com/39265738/113571350-332c7100-9651-11eb-831b-fae840711318.png)
+
+
+·개발 소프트웨어 : android studio, firebase
+·기능 설명
+	- 사용자가 레시피를 입력하면 데이터를 파이어베이스에 저장합니다
+	- 저장한 레시피를 쿼리문을 이용하여 사용자가 보기 편하도록 내 레시피, 인기 있는 레시피, 내가 		좋아하는 레시피 등으로 필터링 또는 정렬해 줍니다.
